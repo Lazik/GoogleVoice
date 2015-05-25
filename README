@@ -14,7 +14,7 @@ Ubuntu-flavor: "sudo apt-get install libcurl4-gnutls-dev libboost-regex1.40" and
 
 *** HOW TO BUILD / HOW TO USE ***
 Okay, this is the hard part: just type make.  Thats it.  You'll end up with a 'gvapi' binary and
-that's all you to use it. An example:
+that's all you need to use it. An example:
 
 	./gvapi -u coolguser -p mygmailsecret -n 5552020023 -m 'Hey, I can text from the CLI!'
 
